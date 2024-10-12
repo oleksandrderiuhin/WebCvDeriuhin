@@ -1,0 +1,419 @@
+body {
+margin: 0;
+line-height: normal;
+}
+
+.img-8548-icon {
+  	position: absolute;
+  	top: 157px;
+  	left: 586px;
+  	border-radius: 18px;
+  	width: 250px;
+  	height: 250px;
+  	object-fit: cover;
+}
+.oleksandr-deriuhin {
+  	position: absolute;
+  	top: 438px;
+  	left: 549px;
+  	font-size: 36px;
+  	line-height: 150%;
+}
+.front-end-developer {
+  	position: absolute;
+  	top: 523px;
+  	left: 495px;
+  	line-height: 150%;
+  	display: inline-block;
+  	width: 432px;
+}
+.about-me {
+  	position: absolute;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 150%;
+  	display: inline-block;
+}
+.component-10-child {
+  	position: absolute;
+  	height: 2.78%;
+  	width: 24.48%;
+  	top: 86.11%;
+  	right: 15.1%;
+  	bottom: 11.11%;
+  	left: 60.42%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-10 {
+  	position: absolute;
+  	top: 40px;
+  	left: 130px;
+  	width: 96px;
+  	height: 36px;
+}
+.educations {
+  	position: absolute;
+  	width: 99.59%;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 150%;
+  	display: inline-block;
+}
+.component-9-child {
+  	position: absolute;
+  	height: 2.78%;
+  	width: 19.34%;
+  	top: 86.11%;
+  	right: 0%;
+  	bottom: 11.11%;
+  	left: 80.66%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-9 {
+  	width: 121.5px;
+  	position: relative;
+  	height: 36px;
+}
+.component-8-child {
+  	position: absolute;
+  	height: 2.78%;
+  	width: 32.19%;
+  	top: 86.11%;
+  	right: 56.85%;
+  	bottom: 11.11%;
+  	left: 10.96%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-8 {
+  	width: 73px;
+  	position: relative;
+  	height: 36px;
+}
+.tools {
+  	position: absolute;
+  	width: 96.05%;
+  	top: 0%;
+  	left: 3.95%;
+  	line-height: 150%;
+  	display: inline-block;
+}
+.component-7-child {
+  	position: absolute;
+  	height: 2.78%;
+  	width: 30.92%;
+  	top: 86.11%;
+  	right: 69.08%;
+  	bottom: 11.11%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-7 {
+  	width: 76px;
+  	position: relative;
+  	height: 36px;
+}
+.component-9-parent {
+  	position: absolute;
+  	top: 40px;
+  	left: 528px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 9px 18px;
+  	gap: 39px;
+}
+.component-6-child {
+  	position: absolute;
+  	height: 2.78%;
+  	width: 26.67%;
+  	top: 86.11%;
+  	right: 47.78%;
+  	bottom: 11.11%;
+  	left: 25.56%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-6 {
+  	position: absolute;
+  	top: 40px;
+  	left: 1130px;
+  	width: 180px;
+  	height: 36px;
+}
+.tabler-icon-file-cv {
+  	position: absolute;
+  	top: 614px;
+  	left: 592px;
+  	width: 56px;
+  	height: 56px;
+  	overflow: hidden;
+}
+.tabler-icon-brand-behance {
+  	position: absolute;
+  	top: 614px;
+  	left: 692px;
+  	width: 56px;
+  	height: 56px;
+  	overflow: hidden;
+}
+.tabler-icon-brand-git {
+  	position: absolute;
+  	top: 614px;
+  	left: 792px;
+  	width: 56px;
+  	height: 56px;
+  	overflow: hidden;
+}
+.skills1 {
+  	position: absolute;
+  	top: 1703px;
+  	left: 130px;
+  	font-size: 40px;
+  	line-height: 150%;
+}
+.politechnika-swietokrzyska {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 150%;
+  	font-family: Lexend;
+}
+.industrial-designer {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 150%;
+}
+.politechnika-swietokrzyska-parent {
+  	position: absolute;
+  	top: 1349px;
+  	left: 130px;
+  	width: 756px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 46px;
+  	font-size: 36px;
+}
+.collegium-da-vinci-parent {
+  	position: absolute;
+  	top: 1019px;
+  	left: 130px;
+  	width: 756px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 46px;
+  	font-size: 36px;
+}
+.main-page-child {
+  	position: absolute;
+  	top: 1761.99px;
+  	left: 130.49px;
+  	max-height: 100%;
+  	width: 143.5px;
+}
+.contact-with-me1 {
+  	position: absolute;
+  	top: 2608px;
+  	left: 631px;
+  	line-height: 150%;
+}
+.oleksancdrderiuhin97gmailcom {
+  	position: absolute;
+  	top: 2688px;
+  	left: 540px;
+  	line-height: 150%;
+}
+.tg-ironinv23 {
+  	position: absolute;
+  	top: 2768px;
+  	left: 630px;
+  	line-height: 150%;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 1.47%;
+  	width: 3.54%;
+  	top: 86.48%;
+  	right: 55.49%;
+  	bottom: 12.05%;
+  	left: 40.97%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon1 {
+  	position: absolute;
+  	height: 1.47%;
+  	width: 3.54%;
+  	top: 86.48%;
+  	right: 47.57%;
+  	bottom: 12.28%;
+  	left: 48.82%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon2 {
+  	position: absolute;
+  	height: 1.47%;
+  	width: 3.54%;
+  	top: 86.48%;
+  	right: 40.8%;
+  	bottom: 12.25%;
+  	left: 56.39%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.back-to-main {
+  	position: absolute;
+  	top: 89.86%;
+  	left: 42.57%;
+  	line-height: 150%;
+  	cursor: pointer;
+}
+.tabler-icon-caret-down-filled {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 9.27%;
+  	top: 16.67%;
+  	right: 0%;
+  	bottom: 16.67%;
+  	left: 90.73%;
+  	overflow: hidden;
+}
+.vector-icon3 {
+  	position: absolute;
+  	height: 22.22%;
+  	width: 5.41%;
+  	top: 38.89%;
+  	right: 1.93%;
+  	bottom: 38.89%;
+  	left: 83.66%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.dropdown-container1 {
+  	position: absolute;
+  	top: 1905px;
+  	left: 130px;
+  	width: 300px;
+  	height: 36px;
+}
+.uiux-design {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 150%;
+}
+.vector-icon4 {
+  	position: absolute;
+  	height: 22.22%;
+  	width: 8%;
+  	top: 38.89%;
+  	right: 0%;
+  	bottom: 38.89%;
+  	left: 92%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-15 {
+  	position: absolute;
+  	top: 2038px;
+  	left: 130px;
+  	width: 175px;
+  	height: 36px;
+}
+.hard-skills {
+  	position: absolute;
+  	height: 100%;
+  	width: 28.7%;
+  	top: 0%;
+  	right: 71.3%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.soft-skills {
+  	position: absolute;
+  	height: 100%;
+  	width: 28.7%;
+  	top: 0%;
+  	right: 27.83%;
+  	bottom: 0%;
+  	left: 43.48%;
+}
+.tools1 {
+  	position: absolute;
+  	height: 100%;
+  	width: 13.04%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 86.96%;
+}
+.component-21 {
+  	position: absolute;
+  	top: 1815px;
+  	left: 130px;
+  	width: 460px;
+  	height: 36px;
+}
+.certificates {
+  	position: absolute;
+  	top: 13.33%;
+  	left: 59.32%;
+  	font-size: 32px;
+  	line-height: 150%;
+}
+.component-22-child {
+  	position: absolute;
+  	height: 3.33%;
+  	width: 42.16%;
+  	top: 96.67%;
+  	right: 57.73%;
+  	bottom: 0%;
+  	left: 0.11%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-22 {
+  	position: absolute;
+  	top: 903px;
+  	left: 130px;
+  	width: 472px;
+  	height: 60px;
+  	font-size: 40px;
+}
+.main-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: #1d1d1d;
+  	height: 3462px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #fff;
+  	font-family: Lekton;
+}
+
+.dropdown-content{
+  display: none;
+  padding: 40px;
+  left: 0%;
+}
